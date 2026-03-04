@@ -33,7 +33,7 @@
     "jlpt": "N5",
     "id": 4,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "会議は予定より早く終わりました。",
@@ -42,7 +42,7 @@
     "jlpt": "N4",
     "id": 5,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "もし時間があれば、一緒に復習しませんか。",
@@ -50,7 +50,7 @@
     "english": "If you have time, would you like to review together?",
     "jlpt": "N3",
     "id": 6,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -969,7 +969,7 @@
     "jlpt": "N3",
     "id": 108,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "日本のニュースを毎日読むようにしています。",
@@ -987,7 +987,7 @@
     "jlpt": "N4",
     "id": 110,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "来月から新しいプロジェクトに参加することになりました。",
@@ -1005,7 +1005,7 @@
     "jlpt": "N4",
     "id": 112,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "店員さんにおすすめの料理を聞いてみた。",
@@ -1014,7 +1014,7 @@
     "jlpt": "N4",
     "id": 113,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "この表現は場面によって失礼に聞こえることがある。",
@@ -1050,7 +1050,7 @@
     "jlpt": "N4",
     "id": 117,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "この問題は思ったより難しくなかった。",

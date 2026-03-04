@@ -565,7 +565,7 @@
     "explanation": "ので is smoother/neutral for reason. (Pattern set 4)",
     "id": 71,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "もし雨が降ります、行きません。",
@@ -645,7 +645,7 @@
     "explanation": "Do not stack ます and です in one predicate. (Pattern set 5)",
     "id": 81,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "日本語が好きをです。",
@@ -765,7 +765,7 @@
     "explanation": "わかる takes が. (Pattern set 5)",
     "id": 96,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "宿題を忘れないよう、メモします。",
@@ -773,14 +773,14 @@
     "explanation": "Use ように for purpose/prevention. (Pattern set 5)",
     "id": 97,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "駅まで十分歩きますかかる。",
     "correct": "駅まで歩いて十分かかる。",
     "explanation": "Use natural collocation and order. (Pattern set 5)",
     "id": 98,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
