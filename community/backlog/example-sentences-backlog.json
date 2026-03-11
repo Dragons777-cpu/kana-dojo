@@ -411,7 +411,7 @@
     "jlpt": "N3",
     "id": 46,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "提出期限までにレポートを仕上げなければならない。",
@@ -428,7 +428,7 @@
     "english": "This app is easy to use even for beginners.",
     "jlpt": "N3",
     "id": 48,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
