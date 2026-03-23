@@ -57,7 +57,7 @@
     "id": 10,
     "text": "\"〜ようです\" means \"it seems like\" and is based on observation.",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 11,
@@ -296,7 +296,7 @@
   {
     "id": 50,
     "text": "\"〜わけではない\" means \"not necessarily\" or \"it's not that\".",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -363,7 +363,7 @@
     "id": 61,
     "text": "\"〜にとって\" means \"for / to (someone)\".",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 62,
@@ -566,7 +566,7 @@
   {
     "id": 95,
     "text": "\"〜ようです\" means \"it seems like\" and is based on observation. (practice variation 10)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -734,7 +734,7 @@
   {
     "id": 123,
     "text": "\"〜に違いない\" means \"must be\" or \"no doubt\". (practice variation 38)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

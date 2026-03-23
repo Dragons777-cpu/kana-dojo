@@ -268,7 +268,7 @@
     "english": "Lero lero lero lero.",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Noriaki Kakyoin",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -388,7 +388,7 @@
     "english": "Relax, I'm the strongest.",
     "anime": "Jujutsu Kaisen",
     "character": "Satoru Gojo",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -419,7 +419,7 @@
     "anime": "One Punch Man",
     "character": "Saitama",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 43,
@@ -828,7 +828,7 @@
     "english": "Gurararara! (alt wording 31)",
     "anime": "One Piece",
     "character": "Edward Newgate (Whitebeard)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1188,7 +1188,7 @@
     "english": "Good grief... honestly. (alt wording 15) (alt wording 67)",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Jotaro Kujo",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1259,7 +1259,7 @@
     "anime": "Mobile Suit Gundam",
     "character": "Char Aznable",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 127,
@@ -1268,7 +1268,7 @@
     "english": "Dance to my beautiful technique! (alt wording 23) (alt wording 75)",
     "anime": "The Prince of Tennis",
     "character": "Keigo Atobe",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

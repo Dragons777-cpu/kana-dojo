@@ -41,7 +41,9 @@
     "mainColor": "oklch(55.0% 0.220 25.0 / 1)",
     "secondaryColor": "oklch(45.0% 0.150 20.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true,
+    "completedBy": "inoovador",
+    "completedPR": 9835
   },
   {
     "id": "thunder-temple",
@@ -255,7 +257,9 @@
     "mainColor": "oklch(92.0% 0.025 240.0 / 1)",
     "secondaryColor": "oklch(70.0% 0.135 225.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true,
+    "completedBy": "inoovador",
+    "completedPR": 9826
   },
   {
     "id": "geisha-grace",
@@ -765,7 +769,7 @@
     "mainColor": "oklch(72.0% 0.145 345.0 / 1)",
     "secondaryColor": "oklch(75.0% 0.125 155.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "umbrella-rain",
@@ -797,7 +801,7 @@
     "mainColor": "oklch(58.0% 0.195 25.0 / 1)",
     "secondaryColor": "oklch(70.0% 0.145 50.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "pagoda-twilight",
@@ -806,7 +810,7 @@
     "backgroundColor": "oklch(20.0% 0.045 290.0 / 1)",
     "mainColor": "oklch(68.0% 0.155 315.0 / 1)",
     "secondaryColor": "oklch(75.0% 0.125 280.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -817,7 +821,9 @@
     "mainColor": "oklch(55.0% 0.175 145.0 / 1)",
     "secondaryColor": "oklch(45.0% 0.125 140.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true,
+    "completedBy": "inoovador",
+    "completedPR": 9845
   },
   {
     "id": "starry-tanabata",
@@ -1480,7 +1486,7 @@
     "backgroundColor": "oklch(20.0% 0.010 260.0 / 1)",
     "mainColor": "oklch(78.0% 0.020 90.0 / 1)",
     "secondaryColor": "oklch(55.0% 0.035 240.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1903,7 +1909,7 @@
     "mainColor": "oklch(78.0% 0.180 235.0 / 1)",
     "secondaryColor": "oklch(62.0% 0.130 270.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "wasanbon",
@@ -1913,7 +1919,7 @@
     "mainColor": "oklch(62.0% 0.110 75.0 / 1)",
     "secondaryColor": "oklch(70.0% 0.060 85.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "bento-sage",
@@ -1923,7 +1929,7 @@
     "mainColor": "oklch(70.0% 0.115 135.0 / 1)",
     "secondaryColor": "oklch(58.0% 0.085 160.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "harbor-lanterns",
@@ -1933,7 +1939,7 @@
     "mainColor": "oklch(78.0% 0.170 45.0 / 1)",
     "secondaryColor": "oklch(70.0% 0.090 210.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "sumi-ink",

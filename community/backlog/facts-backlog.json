@@ -314,7 +314,7 @@
   {
     "id": 53,
     "fact": "The Japanese word 'shibui' (渋い) describes a subtle, unobtrusive beauty that grows on you over time - the opposite of flashy.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -449,12 +449,12 @@
     "id": 75,
     "fact": "The word 'enryo' (遠慮) describes polite restraint - like declining seconds even when hungry, to not be a burden.",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 76,
     "fact": "Japan has a zero-tolerance policy for drunk driving - any detectable alcohol means immediate arrest and potential prison time.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -736,7 +736,7 @@
   {
     "id": 123,
     "fact": "There's a Japanese word 'miryoku' (魅力) for charm or attractiveness that draws people in - the quality that makes things captivating.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1548,7 +1548,7 @@
   {
     "id": 258,
     "fact": "The phrase 'shoku no shiki' (食の四季) refers to eating with the seasons — menus change to highlight spring, summer, fall, and winter ingredients.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1878,7 +1878,7 @@
   {
     "id": 313,
     "fact": "The phrase 'yoroshiku onegaishimasu' (よろしくお願いします) is a versatile expression for \"please take care of me.\"",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

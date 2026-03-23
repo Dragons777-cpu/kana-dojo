@@ -448,7 +448,6 @@
     "english": "Three people together have the wisdom of Monju",
     "meaning": "Two heads are better than one"
   },
-
   {
     "japanese": "犬も歩けば棒に当たる",
     "romaji": "Inu mo arukeba bou ni ataru",
@@ -468,9 +467,45 @@
     "meaning": "Wasting good advice on someone who won't listen"
   },
   {
-    "japanese": "時は金なり",
-    "romaji": "Toki wa kane nari",
-    "english": "Time is money",
-    "meaning": "Time is valuable and should not be wasted"
-  }
+    "japanese": "時が解決する",
+    "romaji": "Toki ga kaiketsu suru",
+    "english": "Time will resolve it",
+    "meaning": "Time heals all wounds / Time is the best medicine"
+  },
+  {
+    "japanese": "隣の花は赤い",
+    "romaji": "Tonari no hana wa akai",
+    "english": "The neighbor's flowers are red",
+    "meaning": "The grass is always greener on the other side"
+  },
+  {
+    "japanese": "二兎を追う者は一兎をも得ず",
+    "romaji": "Ni to wo ou mono wa itto wo mo ezu",
+    "english": "One who chases two rabbits catches neither",
+    "meaning": "Focus on one thing at a time"
+  },
+  {
+    "japanese": "雨垂れ石を穿つ",
+    "romaji": "Amadare ishi wo ugatsu",
+    "english": "Dripping water pierces stone",
+    "meaning": "Persistence can overcome great obstacles"
+  },
+  {
+  "japanese": "雨垂れ石を穿つ",
+  "romaji": "Amadare ishi wo ugatsu",
+  "english": "Dripping water pierces stone",
+  "meaning": "Persistence can overcome great obstacles"
+},
+  {
+  "japanese": "油断大敵",
+  "romaji": "Yudan taiteki",
+  "english": "Carelessness is the greatest enemy",
+  "meaning": "Don't let your guard down"
+},
+  {
+  "japanese": "毒を食らわば皿まで",
+  "romaji": "Doku wo kurawaba sara made",
+  "english": "If you eat poison, eat the plate too",
+  "meaning": "If you must do something risky, go all the way"
+}
 ]
