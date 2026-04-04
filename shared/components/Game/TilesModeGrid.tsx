@@ -7,12 +7,12 @@ import { cn } from '@/shared/lib/utils';
 import {
   ActiveTile,
   BlankTile,
-  celebrationBounceVariants,
-  celebrationContainerVariants,
   tileContainerVariants,
   tileEntryVariants,
 } from '@/shared/components/Game/tilesModeShared';
 import {
+  celebrationBounceVariants,
+  celebrationContainerVariants,
   celebrationExplodeContainerVariants,
   explosionKeyframes,
 } from '@/shared/components/Game/tilesModeCelebration';
