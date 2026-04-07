@@ -286,5 +286,11 @@
     "backgroundColor": "oklch(92.0% 0.020 140.0 / 1)",
     "mainColor": "oklch(58.0% 0.165 140.0 / 1)",
     "secondaryColor": "oklch(72.0% 0.115 95.0 / 1)"
+  },
+  {
+    "id": "sakura-storm",
+    "backgroundColor": "oklch(88.0% 0.025 340.0 / 1)",
+    "mainColor": "oklch(65.0% 0.185 340.0 / 1)",
+    "secondaryColor": "oklch(78.0% 0.095 280.0 / 1)"
   }
 ]
