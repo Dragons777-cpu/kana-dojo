@@ -340,5 +340,9 @@
   "do": "全員の飲み物が揃ってから乾杯する",
   "dont": "先に一人で飲み始める",
   "note": "場の一体感を重視。"
-}
+} ,
+  {
+     "situation": "挨拶 8",
+     "tip": "Bow when greeting - deeper bows show more respect."
+   }
 ]
