@@ -89,5 +89,12 @@
     "english": "Life is not a game",
     "game": "Final Fantasy VII",
     "character": "Cloud Strife"
+  },
+  {
+    "japanese": "サンキュー、マリオ！",
+    "romaji": "Sankyuu, Mario!",
+    "english": "Thank you, Mario!",
+    "game": "Super Mario 64",
+    "character": "Princess Peach"
   }
 ]
