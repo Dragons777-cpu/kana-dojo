@@ -668,5 +668,16 @@
       "Sumi-e"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "difficulty": "easy",
+    "answers": [
+      "Tokyo",
+      "Osaka",
+      "Kyoto",
+      "Nara"
+    ],
+    "correctIndex": 0
   }
 ]
