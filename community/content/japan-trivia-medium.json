@@ -380,5 +380,11 @@
     "difficulty": "medium",
     "answers": ["Mount Haku", "Mount Fuji", "Mount Aso", "Mount Tate"],
     "correctIndex": 1
-  } 
+  }
+  ,{
+     "question": "What is the capital of Japan?",
+     "difficulty": "easy",
+     "answers": ["Tokyo", "Osaka", "Kyoto", "Nara"],
+     "correctIndex": 0
+   }
 ]
