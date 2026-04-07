@@ -96,5 +96,12 @@
     "english": "Thank you, Mario!",
     "game": "Super Mario 64",
     "character": "Princess Peach"
+  },
+  {
+    "japanese": "リンク... 眠れ...",
+    "romaji": "Rinku... Nemure...",
+    "english": "Link... Sleep...",
+    "game": "Zelda: Ocarina of Time",
+    "character": "Princess Zelda"
   }
 ]
