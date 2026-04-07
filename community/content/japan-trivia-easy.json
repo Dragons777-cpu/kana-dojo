@@ -657,5 +657,16 @@
       "Mount Haku"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "What is the traditional Japanese art of paper folding called?",
+    "difficulty": "easy",
+    "answers": [
+      "Origami",
+      "Ikebana",
+      "Bonsai",
+      "Sumi-e"
+    ],
+    "correctIndex": 0
   }
 ]
