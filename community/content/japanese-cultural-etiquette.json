@@ -348,5 +348,9 @@
   {
     "situation": "レストラン 7",
     "tip": "Say 'itadakimasu' before eating and 'gochisousama deshita' after finishing."
+  },
+  {
+    "situation": "挨拶 8",
+    "tip": "Bow when greeting - deeper bows show more respect."
   }
 ]
