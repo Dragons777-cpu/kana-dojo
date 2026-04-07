@@ -292,5 +292,11 @@
     "backgroundColor": "oklch(88.0% 0.025 340.0 / 1)",
     "mainColor": "oklch(65.0% 0.185 340.0 / 1)",
     "secondaryColor": "oklch(78.0% 0.095 280.0 / 1)"
+  },
+  {
+    "id": "moonlit-bay",
+    "backgroundColor": "oklch(25.0% 0.035 260.0 / 1)",
+    "mainColor": "oklch(55.0% 0.145 260.0 / 1)",
+    "secondaryColor": "oklch(75.0% 0.085 200.0 / 1)"
   }
 ]
